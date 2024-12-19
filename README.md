@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Amaan-Khan-Developer
-- 👀 I’m interested in ...Web Development🧑‍💻 and Cyber Security
+- 👋 Hi, I’m @Amaan-Khan
+- 👀 I’m interested in ...Web Development🧑‍💻 
 - 🌱 I’m currently learning ...BCA
 - 💞️ I’m looking to collaborate on ...Any Freelancing Group
 - 📫 How to reach me ...
